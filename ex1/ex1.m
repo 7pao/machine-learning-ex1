@@ -2,7 +2,7 @@
 
 %  Instructions
 %  ------------
-%
+% 
 %  This file contains code that helps you get started on the
 %  linear exercise. You will need to complete the following functions
 %  in this exericse:
@@ -45,6 +45,9 @@ m = length(y); % number of training examples
 % Plot Data
 % Note: You have to complete the code in plotData.m
 plotData(X, y);
+
+
+
 
 fprintf('Program paused. Press enter to continue.\n');
 pause;
